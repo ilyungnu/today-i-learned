@@ -39,12 +39,6 @@ textarea {
 
 - `<textarea>`에 `readonly` 속성 추가
 
-# \<input> 자동 완성 끄기
-
-```html
-<input type="text" autocomplete="off" />
-```
-
 input의 autocomplete 속성값으로 off를 넣어주면 된다
 
 # \<a> tag 밑줄, 보라색 삭제

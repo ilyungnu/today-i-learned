@@ -1,3 +1,9 @@
+# \<input> 자동 완성 끄기
+
+```html
+<input type="text" autocomplete="off" />
+```
+
 # \<textarea> 수정불가 설정
 
 ```html
