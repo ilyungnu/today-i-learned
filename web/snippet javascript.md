@@ -34,12 +34,12 @@ window.localStorage.removeItem(key) //삭제
 window.localStorage.clear() //전체삭제
 ```
 
-# 숫자가 아닌 문자제거(replace)
+# 숫자가 아닌 문자 제거(replace)
 
 ```js
-var.replace(/\D/g,"")
+x.replace(/\D/g,"")
 ```
-: var에서 숫자가 아닌 모든 문자를 찾아서 제거한 문자열을 반환
+: 숫자가 아닌 모든 문자를 찾아서 제거한 문자열을 반환
 
 - \D : 숫자가 아닌 모든 문자
 - /.../ : 정규식 리터럴
